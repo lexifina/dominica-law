@@ -1,0 +1,4 @@
+1.
+This Order may be cited as the -
+CUSTOMS IMPORT AND EXPORT TARIFFS
+(AMENDMENT) ORDER, 2004.
