@@ -1,0 +1,7 @@
+1. This Order may be cited as the -
+SECURITIES
+(ADVERTISEMENT)
+REGULA nONS
+(COMMENCEMENT
+DATE) ORDER
+2002.
