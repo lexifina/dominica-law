@@ -1,0 +1,3 @@
+36. A telecommunications provider shall comply with a re-
+quest for information from the Commission or ECTEL including
+a request for information in respect of an audit.
