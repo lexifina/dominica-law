@@ -1,0 +1,4 @@
+1.
+This Act may be cited as the -
+SUPPRESSION OF THE FINANCING OF
+TERRORISM ACT 2003.
