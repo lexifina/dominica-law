@@ -1,0 +1,4 @@
+1. These Regulation  may be cited as the-
+CARIBBEAN COMMUNITY  SKILLLED
+NATIONALS (WORK PERMIT) (EXEMPTION)
+ORDER  2003.
