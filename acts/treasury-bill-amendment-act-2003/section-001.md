@@ -1,0 +1,6 @@
+1. This Act may be cited as the –
+TREASURY BILLS (AMENDMENT) ACT 2003.
+LS
+
+2003     TREASURY BILLS (AMENDMENT)
+   ACT 14
