@@ -1,0 +1,8 @@
+19. (1) The Board, may at any time upon an application made
+by a licensee or on  its own motion, vary any of the terms or
+conditions of a licence.
+(2) The Board shall in varying any term or condition of a
+licence take into account any representations made to it by the
+licensee or on his behalf and shall not vary such term or condition
+on  its own motion without first giving to the licensee a reasonable
+opportunity to make any representations.

@@ -1,0 +1,6 @@
+14. Where the Board considers that the licensee of a hospital
+or health care facility failed or is failing to operate the hospital or
+health care facility in accordance with the licence or the Act, the
+Board may give written notice to the licensee specifying in what
+respect, in the opinion of the Board, the licensee failed or is failing
+to comply with the requirements of the licence or the Act.
