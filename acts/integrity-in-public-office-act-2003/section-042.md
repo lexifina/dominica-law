@@ -1,0 +1,31 @@
+42. (1) If, in any proceedings for an offence under any section
+in this Part, it is proved that the accused accepted any advantage,
+believing or suspecting or having grounds to believe or suspect
+that the advantage was given as an inducement to or reward for
+or otherwise on account of his doing or forbearing to do or having
+done or forborne to do any act referred to in that section, it shall
+be no defence that -
+(a) he did not actually have the power, right or opportu-
+nity so to do or forbear;
+(b) he accepted the advantage without intending so to
+do or forbear; or
+Bribery of prescribed
+officers by person having
+dealing with public
+bodies.
+Aiding and abetting.
+Giver and acceptor of
+advantage guilty
+notwithstanding.
+
+2003        INTEGRITY IN PUBLIC OFFICE       ACT 6
+(c) he did not in fact so do or forbear.
+(2) If, in any proceedings for an offence under any
+section in this Part, it is proved that the accused offered any
+advantage to any other person as an inducement to or reward for
+or otherwise on account of that other person’s doing, or forbearing
+to do, or having done, or forborne to do, any act referred to in that
+section, believing or suspecting or having reason to believe or
+suspect that such other person had the power, right or opportunity
+so to do or forbear, it shall be no defence that such other person
+had no such power, right or opportunity.
