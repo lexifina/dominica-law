@@ -1,0 +1,3 @@
+1. This Act may be cited as the -
+GOVERNMENT HOUSING LOANS
+(AMENDMENT) ACT 2002.
