@@ -1,0 +1,9 @@
+1.
+This Order may be cited as the -
+PLANT
+PROTECTION
+AND QUARANTINE
+(AMENDMENT)
+(No.2)
+ORDER,
+2003.
