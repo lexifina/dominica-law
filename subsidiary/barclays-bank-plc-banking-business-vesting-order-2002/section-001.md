@@ -1,0 +1,3 @@
+1. This Order may be cited as the -
+BARCLAYS BANK PLC BANKING BUSINESS
+VESTING ORDER, 2002.
