@@ -1,0 +1,3 @@
+1. This Act may be cited as the-
+MUTUAL ASSISTANCE IN CRIMINAL MATTERS
+(AMENDMENT) ACT 2002.
