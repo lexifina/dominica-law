@@ -1,0 +1,8 @@
+1. This Order may be cited as the -
+OFFSHORE
+BANKING
+(REVOCATION
+OF
+OFFSHORE
+BANKING LICENCE)
+ORDER, 2002.
