@@ -1,0 +1,8 @@
+1. This Act may be cited as the -
+NATIONAL COMMERCIAL BANK OF DOMINICA
+(REPEAL) ACT 2003.
+Short title.
+LS
+
+2003     NATIONAL COMMERCIAL BANK
+   ACT 18
