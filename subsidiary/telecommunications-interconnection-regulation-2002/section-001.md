@@ -1,0 +1,3 @@
+1. These Regulations may be cited as the -
+TELECOMMUNICATIONS
+(INTERCONNECTION) REGULATIONS  2002.
