@@ -1,0 +1,9 @@
+1.
+This Act may be cited as the-
+SOLID WASTE MANAGEMENT ACT 2002.
+Short title.
+SOLID WASTE MANAGEMENT   ACT 1
+LS
+
+SOLID WASTE MANAGEMENT
+   ACT 1
