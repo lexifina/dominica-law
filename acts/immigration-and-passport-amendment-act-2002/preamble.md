@@ -1,0 +1,12 @@
+IMMIGRATION AND PASSPORT
+ACT 3
+COMMONWEALTH OF DOMINICA
+I assent
+VERNON L. SHAW
+President.
+9th May, 2002.
+AN ACT TO AMEND THE IMMIGRATION AND PASS-
+PORT ACT CHAPTER 18:01.
+(Gazetted 16th May, 2002).
+BE IT ENACTED by the Parliament of the Commonwealth of
+Dominica as follows:

@@ -1,0 +1,3 @@
+1. This Act may be cited as the -
+IMMIGRATION AND PASSPORT
+(AMENDMENT) ACT 2002.
