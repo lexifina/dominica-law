@@ -1,0 +1,3 @@
+1. This Order may be cited as the -
+MAGISTRATES' COURTS DISTRICTS
+(AMENDMENT) ORDER, 2003.
