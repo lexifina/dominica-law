@@ -1,0 +1,7 @@
+1. This Act may be cited as the -
+SUPPLEMENTARY APPROPRIATION
+(2001/2002)(NO. 2) ACT 2002.
+Short title.
+LS
+
+2002      SUPPLEMENTARY APPROPRIATION     ACT  20
