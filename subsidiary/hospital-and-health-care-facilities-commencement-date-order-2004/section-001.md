@@ -1,0 +1,8 @@
+1.
+This Order may be cited as the -
+HOSPITAL
+AND HEALTH
+CARE FACILITIES
+(COMMENCEMENT
+DATE) ORDER,
+2004.
