@@ -1,0 +1,4 @@
+13. The functions of the Assessment Committee are to
+review the architectural work done by applicants seeking to
+qualify for registration and to make recommendations in this
+regard to the Board.

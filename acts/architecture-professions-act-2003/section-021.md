@@ -1,0 +1,6 @@
+21. (1)  A registered architect shall conform to the Code of
+Ethics for registered architects set out in the Schedule
+(2) A registered architect who breaches any provision of
+the Code of Ethics is liable to disciplinary action by the Board.
+(3) The Minister may, by Order, amend the Schedule
+on the advice of the Board.

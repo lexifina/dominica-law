@@ -1,0 +1,22 @@
+18. (1) Notwithstanding section 17, any person who does not
+possess the qualification specified in that section but who, on
+application made to the Board within one year of  the commence-
+ment of this Act, satisfied the Board that -
+(a) he has had, before the commencement of this
+Act, ten years experience in the practice of
+architecture; and
+(b) he is a fit and proper person to be registered as a
+registered architect,
+ is entitled to be registered as a registered architect.
+(2) In determining whether a person satisfies the
+requirement of subsection (1), the Board may conduct an
+investigation relating to the experience in architecture of that
+person as it considers necessary and may require that person to
+undergo a written or oral examination in architecture, or both
+such written and oral examination.
+Registration of
+persons who lack
+qualification.
+
+ARCHITECTURE PROFESSION
+ACT

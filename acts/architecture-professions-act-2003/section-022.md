@@ -1,0 +1,30 @@
+22. (1)  In any disciplinary proceedings held by the Board, the
+Board shall in addition to any other requirement imposed by any
+regulations under this Act -
+(a) furnish adequate notice to the registered architect
+against whom the misconduct is alleged  stating
+the nature and details of the alleged misconduct;
+Certificate of
+Registration.
+Redress for rejected
+applicants.
+Code of Ethics.
+Disciplinary
+Proceedings.
+Schedule.
+
+ARCHITECTURE PROFESSION
+ACT
+(b) allow the registered architect against whom the
+misconduct is alleged, the right to be heard in his
+defense, to be represented by his legal adviser
+where so requested and the right to cross-examine
+any witness called by the Board.
+(2) Where the Board fails to comply with subsection (1),
+any decision taken by the Board which adversely affects the
+career or interest of the registered architect subjected to the
+disciplinary proceedings, is void.
+(3) In exercise of its disciplinary powers the Board may,
+where it is satisfied that an allegation  of misconduct is proved,
+censure the registered architect or suspend or cancel his Certifi-
+cate of Registration.
