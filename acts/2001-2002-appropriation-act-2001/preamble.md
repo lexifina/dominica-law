@@ -1,0 +1,16 @@
+VERNON
+L. SHAW
+President
+2Sth July, 2001
+AN ACT TO PROVIDE
+FOR THE SERVICES
+OF THE
+COMMONWEALTH
+OF DOMINICA
+FOR THE
+YEAR ENDING THE THIRTIETH
+DAY OF JUNE,
+2002.
+BE IT ENACTED by the Parliament of the Commonwealth
+of
+Dominica as follows:
