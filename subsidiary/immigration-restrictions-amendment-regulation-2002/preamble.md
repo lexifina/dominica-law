@@ -1,0 +1,9 @@
+IMMIGRATION AND PASSPORT
+S.R.O 51
+REGULATIONS
+COMMONWEALTH OF DOMINICA
+STATUTORY RULES AND ORDERS NO. 51 OF  2002
+REGULATIONS
+MADE by the Minister under section 29 of the Immigration and
+Passport Act, (Chap. 18:01).
+(Gazetted 17th October, 2002).
