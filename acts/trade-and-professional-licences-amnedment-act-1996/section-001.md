@@ -1,0 +1,5 @@
+1. This Act may be cited as the -
+TRADE AND PROFESSIONAL
+LICENCES
+(AMENDMENT)
+ACT 1996.
