@@ -1,0 +1,13 @@
+ADMINISTRATIVE COST
+ACT 11
+    RECOVERY PROVISIONS
+COMMONWEALTH OF DOMINICA
+   I assent
+VERNON L. SHAW
+President
+30th September, 2002
+AN ACT TO PROVIDE FOR THE RECOVERY OF
+ADMINISTRATIVE COST
+(Gazetted 3rd October, 2002.)
+BE IT ENACTED by the Parliament of the Commonwealth of
+Dominica as follows:
