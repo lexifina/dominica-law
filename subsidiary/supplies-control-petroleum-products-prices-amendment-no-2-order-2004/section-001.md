@@ -1,0 +1,4 @@
+1.
+(1) This Order may be cited as the -
+SUPPLIES CONTRdL PETROLEUM PRODUCTS
+(PRICES) (AMENDMENT) (NO.2) ORDER, 2004.
