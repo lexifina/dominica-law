@@ -1,0 +1,11 @@
+INTERNATIONAL
+EXEMPT
+TRUST
+S.R.O. 5
+(REVOCATION
+OF INTERNATIONAL
+EXEMPT
+TRUST LICENCE)
+ORDER
+MADE by the Minister under section 51 of the International
+Exempt Trust Act 1997 (Act No. 10 of 1997).
