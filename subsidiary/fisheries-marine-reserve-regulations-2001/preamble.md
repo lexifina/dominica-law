@@ -1,0 +1,11 @@
+FISHERIES
+(MARINE
+RESERVE)
+S.R.O.7
+REGULATIONS
+COMMONWEALTH
+OF DOMINICA
+STATUTORYRULES AND ORDERS NO. 7 OF 2001
+MADE by the Minister under section 38 of the Fisheries Act,
+Chap. 61:60.
+(Gazetted February 15th,2001.)
