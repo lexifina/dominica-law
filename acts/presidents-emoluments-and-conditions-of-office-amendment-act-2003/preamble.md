@@ -1,0 +1,15 @@
+PRESIDENT’S EMOLUMENTS
+ACT 17
+AND CONDITIONS OF OFFICE
+(AMENDMENT)
+COMMONWEALTH OF DOMINICA
+I Assent
+           N. J. O. LIVERPOOL
+      President
+          28th November, 2003
+AN ACT TO AMEND THE PRESIDENT’S EMOLUMENTS
+AND CONDITIONS OF OFFICE ACT, CHAPTER
+1:12.
+(Gazetted  4th December, 2003).
+BE IT ENACTED by the Parliament of the Commonwealth of
+Dominica as follows:
