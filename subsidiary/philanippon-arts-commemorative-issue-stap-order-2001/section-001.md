@@ -1,0 +1,6 @@
+1.
+This Order may be cited as the -
+PHILANIPPON
+ARTS COMMEMORATIVE
+ISSUE STAMP ORDER
+2001.
