@@ -1,0 +1,22 @@
+102. (1) In this Chapter
+"alien" means a person who is not a Commonwealth citizen. a British
+protected person or a citizen of the Republic of Ireland;
+"British protected person" means a person who is a British protected
+person for the purpose of the British Nationality Act 1948 or
+any Act of the Parliament of the United Kingdom altering that
+Act.
+(2) For the purposes of this Chapter, a person born aboard a
+registered ship or aircraft, or aboard an unregistered ship or aircraft of
+the Government of any country, shall be deemed to have been born in
+the place in which the ship or aircraft was registered or, as the case may
+be, in that country.
+(3) Any reference in this Chapter to the national status of the
+father of a person at the time of that person's birth shall, in relation to
+a person born after the death of his father, be construed as a reference
+to the national status of the father at the time of the father's death; and
+where that death occurred before the commencement of this Constitution and the birth occurred after such commencement the national
+status that the father would have had if he had died immediately after
+such commencement shall be deemed to be his national status at the
+time of his death.
+CHAPTER VIll
+JUDICIAL PROVISIONS

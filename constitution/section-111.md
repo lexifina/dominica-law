@@ -1,0 +1,41 @@
+111. (1) In investigating any matter leading to, resulting from or Restrictionson
+connected with the decision of a Minister, the Parliamentary Commis- =~:oo.
+sioner shall not inquire into or question the policy of the Minister in
+accordance with which the decision was made.
+(2) The Parliamentary Commissioner shall have power to investigate complaints of administrative injustice under section 110 notwithstanding that such complaints raise questions as to the integrity or
+corruption of the public service or any deparunent or office of the
+public service, and may investigate any conditions resulting from, or
+calculated to facilitate or encourage, corruption in the public service,
+but he shall not undertake any investigation into specific charges of
+corruption against individuals.
+(3) Where in the course of an investigation it appears to the
+Parliamentary Commissioner that there is evidence of any corrupt act
+by any public officer or by any person in connection with the public
+service, he shall report the matter to the appropriate authority with his
+recommendation as to any further investigation he may consider
+proper.
+(4) The Parliamentary Commissioner shall not investigate
+(a) any action in respect of which the complainant has or
+had
+(i) a remedy by way ofproceedings in a court oflaw;
+or
+(ii) a right of appeal, reference or review to or before
+an independent and impartial tribunal other than
+a court oflaw; or
+(b) any such action, or action taken with respect to any
+matter, as is described in Schedule 3 to this Constitution.
+(5) Notwithstanding the provisions of subsection (4) of this
+section the Parliamentary Commissioner
+(a) may investigate a matter notwithstanding that the
+complainant has or had a remedy by way of proceedings in a court of law if satisfied that in the particular
+Discretion of
+Commissioner.
+Report on
+investigation.
+circumstances it is not reasonable to expect him to take
+or to have taken such proceedings;
+(b) is not in any case precluded from investigating any
+matter by reason only that it is open to the complainant
+to apply to the High Court for redress under section 16
+of this Constitution (which relates to the enforcement
+of the fundamental rights and freedoms).
