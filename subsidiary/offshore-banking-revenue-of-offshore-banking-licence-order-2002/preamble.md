@@ -1,0 +1,9 @@
+OFFSHORE BANKING             S.R.O 42
+     (REVOCATION OF OFFSHORE
+     BANKING LICENCE) ORDER
+COMMONWEALTH OF DOMINICA
+STATUTORY RULES AND ORDERS No. 42 OF 2002.
+ORDER
+MADE by the Minister under Section 13 of the Offshore
+Banking Act, (Act No. 8 of 1996).
+(Gazetted 22nd August, 2002).
