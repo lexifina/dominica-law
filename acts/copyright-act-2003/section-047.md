@@ -1,0 +1,42 @@
+47. (1) The presumptions set out in subsections (2) to (5)
+shall apply in proceedings brought under this Act with  respect to
+a literary, dramatic, musical, or artistic work.
+(2) Where a name purporting to be that of the author
+appeared on copies of a literary, dramatic, or musical work as
+published or on an artistic work when it was made, the person
+whose name appeared shall be presumed, until the contrary is
+proved-
+(a) to be the author of the work; or
+Infringement
+actionable by
+copyright owner.
+Presumptions
+regarding, literary,
+dramatic, musical
+and artistic works.
+
+        COPYRIGHT
+ACT 5
+(b) to have made the work in circumstances not
+falling within section 18(3) to (5), or section 20 or
+22.
+(3) In the case of a work alleged to be a work of joint
+authorship, subsection (2) shall apply in relation to each person
+alleged to be one of the authors.
+(4) Where no name purporting to be that of the author
+appeared on copies of the work as published or on the work
+when it was made, but-
+(a) the work qualifies for copyright under section
+9(1) (b); and
+(b) a name purporting to be that of the publisher
+appeared on copies of the work as first published,
+the person whose name appeared shall be presumed, until the
+contrary is proved, to represent the author and shall be entitled to
+protect and enforce the author’s rights.
+(5) If the author of the work is dead or the identity of the
+author cannot be ascertained by reasonable inquiry, it shall be
+presumed, until the contrary is proved-
+(a) that the work is an original work; and
+(b) that the plaintiff’s allegations as to what was the
+first publication of the work and as to the country
+of first publication are correct.
