@@ -1,0 +1,13 @@
+INTERNATIONAL MARITIME
+ACT 8
+(AMENDMENT)
+COMMONWEALTH OF DOMINICA
+I assent
+VERNON L. SHAW
+President
+9th May, 2002
+AN ACT TO AMEND THE INTERNATIONAL MARI-
+TIME ACT, NO. 9 OF 2000.
+(Gazetted 16th May, 2002.)
+BE IT ENACTED by the Parliament of the Commonwealth of
+Dominica as follows:
