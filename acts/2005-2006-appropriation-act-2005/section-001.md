@@ -1,0 +1,9 @@
+1. This Act may be cited as the  -
+2005/2006 APPROPRIATION ACT 2005.
+Short title.
+LS
+APPROPRIATION
+ACT 5
+
+APPROPRIATION
+   ACT 5
