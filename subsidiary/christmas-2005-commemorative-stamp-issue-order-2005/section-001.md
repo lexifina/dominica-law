@@ -1,0 +1,3 @@
+1. This Order may be cited as the-
+“CHRISTMAS 2005” COMMEMORATIVE STAMP
+ISSUE ORDER, 2005
