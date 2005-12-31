@@ -1,0 +1,4 @@
+1.
+These Regulations may be cited as the-
+SECURITIES (MINIMUM CAPITAL REQUIRE-
+MENTS) REGULATIONS, 2005.
