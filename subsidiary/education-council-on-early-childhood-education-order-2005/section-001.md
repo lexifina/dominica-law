@@ -1,0 +1,3 @@
+1. This Order may be cited as the -
+EDUCATION (COUNCIL ON EARLY CHILDHOOD
+EDUCATION) ORDER 2005.
