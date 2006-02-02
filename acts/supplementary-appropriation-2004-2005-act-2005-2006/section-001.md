@@ -1,0 +1,7 @@
+1. This Act may be cited as the -
+SUPPLEMENTARY APPROPRIATION
+(2004/2005( NO. 2) ACT 2005.
+Short title.
+LS
+
+2005     SUPPLEMENTARY APPROPRIATION    ACT 9

@@ -1,0 +1,16 @@
+SUPPLEMENTARY APPROPRIATION
+ACT 9
+COMMONWEALTH OF DOMINICA
+I    assent
+                                                      N.J.O. Liverpool
+      President
+       23rd January, 2006
+AN ACT TO SANCTION CERTAIN PAYMENTS FROM
+THE CONSOLIDATED FUND OF DOMINICA IN
+EXCESS OF THE SUM PROVIDED BY LAW FOR
+THE SERVICES OF THE COMMONWEALTH OF
+DOMINICA DURING THE YEAR ENDING THE
+THIRTIETH DAY OF JUNE 2005.
+(Gazetted 2nd February, 2006.)
+BE IT ENACTED by the Parliament of the Commonwealth of
+Dominica as follows:
