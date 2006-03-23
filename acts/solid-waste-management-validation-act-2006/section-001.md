@@ -1,0 +1,12 @@
+1. This Act may be cited as the -
+SOLID WASTE MANAGEMENT
+(VALIDATION) ACT, 2006
+Short title.
+LS
+2006          SOLID WASTE MANAGEMENT
+     ACT 1
+      (VALIDATION)
+
+2006        SOLID WASTE MANAGEMENT
+    ACT 1
+      (VALIDATION)
