@@ -1,0 +1,3 @@
+1. This order may be cited as the-
+DOMINICA AIR AND SEA PORTS AUTHORITY
+ (COMMENCEMENT) ORDER 2006.
