@@ -1,0 +1,4 @@
+29. The Authority shall establish a Reserve Fund which shall
+be dealt with and applied in accordance with any direction which
+may from time to time be given to the Authority by the Minister
+for Finance.
