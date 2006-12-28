@@ -1,0 +1,3 @@
+1. This Order may be cited as the-
+“CHRISTOPHER COLUMBUS ”
+SCOMMEMORATIVE STAMP ISSUE ORDER,  2006
