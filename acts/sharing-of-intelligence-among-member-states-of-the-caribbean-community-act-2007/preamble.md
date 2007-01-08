@@ -1,0 +1,17 @@
+2007         SHARING OF INTELLIGENCE           ACT 1
+           AMONG MEMBER STATES OF THE
+                  CARIBBEAN COMMUNITY
+.
+COMMONWEALTH OF DOMINICA
+I assent
+       Nicholas J. O. Liverpool
+       President
+      27th January, 2007.
+AN ACT TO PROVIDE FOR THE IMPLEMENTATION
+OF THE MEMORANDUM OF UNDERSTANDING
+FOR THE SHARING OF INTELLIGENCE
+AMONG MEMBER STATES OF THE CARIBBEAN
+COMMUNITY.
+(Gazetted 1st February , 2007.)
+BE IT ENACTED by the Parliament of the Commonwealth of
+Dominica as follows:-
