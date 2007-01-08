@@ -1,0 +1,8 @@
+1. This Act may be cited as the -
+ CARICOM   IMPLEMENTATION AGENCY
+FOR CRIME AND SECURITY ACT,   2007.
+Short title.
+LS
+
+2007         CARICOM IMPLEMENTATION        ACT 3
+           AGENCY FOR CRIME AND SECURITY
