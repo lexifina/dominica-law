@@ -1,0 +1,18 @@
+CARIBBEAN COMMUNITY         ACT 5
+  SPECIAL VISA AGREEMENT
+COMMONWEALTH OF DOMINICA
+I assent
+Nicholas J. O. Liverpool
+       President
+               2nd  February, 2007
+AN ACT TO PROVIDE FOR THE IMPLEMENTATION
+IN
+DOMINICA
+OF
+THE
+CARIBBEAN
+COMMUNITY SPECIAL VISA AGREEMENT
+AND FOR MATTERS CONNECTED THEREWITH
+             (Gazetted 8th February 2007)
+BE IT ENACTED by the Parliament of the Commonwealth of
+Dominica as follows:
