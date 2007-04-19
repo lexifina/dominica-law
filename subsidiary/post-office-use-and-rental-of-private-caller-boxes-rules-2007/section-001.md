@@ -1,0 +1,3 @@
+1. These Rules may be cited as the -
+POST OFFICE (USE AND RENTAL OF PRIVATE
+CALLER BOXES) RULES, 2007.
