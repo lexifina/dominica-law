@@ -1,0 +1,8 @@
+1. This Act may be cited as the -
+IMMIGRATION AND PASSPORT
+(AMENDMENT) (NO. 2) ACT, 2007
+Short title.
+LS
+
+2007       IMMIGRATION AND PASSPORT      ACT 11
+(AMENDMENT)
