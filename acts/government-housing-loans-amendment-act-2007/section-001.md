@@ -1,0 +1,8 @@
+1. This Act may be cited as the -
+GOVERNMENT HOUSING LOANS
+(AMENDMENT)) ACT, 2007.
+Short title.
+LS
+
+2007        GOVERNMENT HOUSING  LOANS        ACT 10
+ (AMENDMENT)
