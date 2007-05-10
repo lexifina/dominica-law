@@ -1,0 +1,9 @@
+26. (1) The Authority shall prepare and submit to the Min-
+ister an annual Tourism Marketing Plan for the conduct of
+tourism promotion.
+(2) The Plan referred to in subsection (1) shall -
+(a) serve as a guide for structuring the programme of
+tourism promotion and visitor service activities
+for the succeeding year; and
+(b) specify the aims of the programme and outline the
+methods to be employed to accomplish those aims.

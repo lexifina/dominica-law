@@ -1,0 +1,5 @@
+18. The Authority shall not, without the prior approval  in
+writing of the Minister responsible for Finance -
+(a) dispose of its capital assets; or
+(b) apply the proceeds of a disposal to which paragraph
+(a) refers, to any undertaking.
