@@ -1,0 +1,3 @@
+1. This Order may be cited as the -
+ATTORNEY GENERAL (OFFICE OF MINISTER)
+(CESSATION) ORDER, 2007.
