@@ -1,0 +1,3 @@
+1. This Order may be cited as the -
+ALIENS LAND HOLDING REGULATION
+(EXEMPTION) ORDER, 2007.
