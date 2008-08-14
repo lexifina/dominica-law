@@ -1,0 +1,3 @@
+1. This order may be cited as the-
+INTEGRITY IN PUBLIC OFFICE
+(COMMENCEMENT) ORDER 2008.
