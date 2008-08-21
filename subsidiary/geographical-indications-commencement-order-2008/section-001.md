@@ -1,0 +1,3 @@
+1. This Order may be cited as the -
+GEOGRAPHICAL INDICATIONS
+(COMMENCEMENT) ORDER, 2008.
