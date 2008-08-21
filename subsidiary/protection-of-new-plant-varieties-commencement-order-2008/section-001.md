@@ -1,0 +1,3 @@
+1. This Order may be cited as the -
+PROTECTION OF NEW PLANT  VARIETIES
+(COMMENCEMENT) ORDER, 2008.
