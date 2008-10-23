@@ -1,0 +1,3 @@
+53. No divisional application may be filed after a patent has
+been granted in respect of the immediately preceding application
+upon which the divisional application is based.

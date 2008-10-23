@@ -1,0 +1,8 @@
+58. (1) Upon proof to the Registrar’s satisfaction of the
+malfeasance or incapacity of a licensed patent agent, or on the
+non-payment of the annual fee for licencing a patent agent, the
+Registrar shall revoke the  licence of the agent.
+(2) After the licence of a patent agent has been revoked,
+the Registrar may restore the licence if he is satisfied that the
+reasons for revoking the licence in the first instance have been
+removed.

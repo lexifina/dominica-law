@@ -1,0 +1,3 @@
+24. Photographs may be used instead of drawings in an
+application if the photographs clearly illustrate the invention and
+can be readily reproduced.

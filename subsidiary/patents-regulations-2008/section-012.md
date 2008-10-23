@@ -1,0 +1,10 @@
+12. (1) All applications, notices, statements, papers having
+representations affixed, or other documents authorized or re-
+quired by the Act or these Regulations to be made, left with or sent
+to the Registrar must be on strong, durable white paper and ,
+except in the case of statutory documents and affidavits, must be
+written on one side of the paper only.
+(2) Each sheet of paper, other than drawings, shall  have
+its short sides at the top and bottom of the sheet.
+(3) Each sheet of paper shall be of the same size and on
+A-4 paper or such other size as the Registrar may permit.

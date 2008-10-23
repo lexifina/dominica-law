@@ -1,0 +1,6 @@
+61. A document relating to an application or patent may be
+corrected if the Registrar is satisfied that the document contains
+an error of a clerical nature and that its correction would involve
+no change of substance in the application or patent.
+PART XVI
+GENERAL

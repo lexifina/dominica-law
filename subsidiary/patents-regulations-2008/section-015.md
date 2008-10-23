@@ -1,0 +1,3 @@
+15. The title of an invention given in an application must be
+short and indicate the subject matter to which the invention
+relates.

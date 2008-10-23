@@ -1,0 +1,5 @@
+36. A person who corresponds with the Office shall provide
+his full postal address, and any correspondence sent by the Office
+to that person at the address so provided shall be deemed to be
+sent on the date that the records of the Office show it to have been
+sent.

@@ -1,0 +1,4 @@
+20. No matter contained in a document referred to in a
+description in an application and not available to the public when
+the application was filed may be added to the description after the
+application is filed.

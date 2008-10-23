@@ -1,0 +1,5 @@
+41. If the Registrar is satisfied that mail to or from the Office
+was sent but never received, the Registrar may accept or send out
+replacing correspondence; and the effective date of the replacing
+correspondence is the date that the Registrar determines should
+apply.

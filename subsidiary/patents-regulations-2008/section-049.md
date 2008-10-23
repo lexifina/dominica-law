@@ -1,0 +1,3 @@
+49. When a convention priority is requested for an application,
+the applicant must state when and where an application for the
+invention was first filed, and what its application number was.

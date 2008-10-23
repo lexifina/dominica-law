@@ -1,0 +1,6 @@
+55. In filing a divisional application, the applicant  may request
+that the application be accorded, as its filing date, the date of any
+of the preceding applications from which the divisional application
+is derived, if the divisional application does not go beyond the
+disclosure contained in the preceding applications, otherwise its
+filing date shall be the date on which it was actually filed.

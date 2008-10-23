@@ -1,0 +1,6 @@
+46. When, after an application has been filed, it appears that
+the names of one or more inventors were improperly included in
+or omitted from the application, then, if the Registrar is satisfied,
+by an affidavit setting out all the relevant facts, that a correction
+should be made, the Registrar may delete or add, as the case
+requires, the names of those other inventors.

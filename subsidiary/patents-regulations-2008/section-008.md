@@ -1,0 +1,4 @@
+8. (1) Fees that are paid by cheque, bank draft or money
+order shall be forwarded to the Registrar and made payable to
+him.
+(2) Fees may be paid by cash at the office.

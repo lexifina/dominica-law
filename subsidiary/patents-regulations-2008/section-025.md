@@ -1,0 +1,3 @@
+25. No drawings or sketches shall be placed in the textual part
+of a disclosure in an application except to show graphic chemical
+formulas, mathematical formulas, symbols or equations.
