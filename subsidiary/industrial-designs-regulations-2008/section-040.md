@@ -1,0 +1,6 @@
+40. The Registrar may acknowledge inquiries made to the
+Office, but the Registrar need not furnish any applicants or other
+persons with information that would require a search of the public
+records of the Office, provide advice on matters concerning the
+interpretation of the Act or Regulations or concerning other
+questions oflaw.

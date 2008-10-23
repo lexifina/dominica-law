@@ -1,0 +1,8 @@
+9. A payment of a fee by cheque may be accepted by the
+Cheques.
+Registrar as being a payment of the fee when the cheque is
+received by him, but if the cheque is not honoured when presented
+to the bank on which it is drawn and not made good within such
+time as the Registrar may fix, the acceptance of the fee is
+withdrawn and any thing done pursuant to the payment is void and,
+if appropriate, shall be so recorded in the register.
