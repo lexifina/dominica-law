@@ -1,0 +1,20 @@
+2008                 TOURISM (REGULATION             ACT 11
+      AND STANDARDS) (AMENDMENT)
+.
+COMMONWEALTH OF DOMINICA
+I assent
+         N. J. O. LIVERPOOL
+      President
+              27th November, 2008
+AN ACT TO AMEND THE TOURISM (REGULATION
+AND
+STANDARDS)
+ACT
+TO
+MAKE
+CONSEQUENTIAL CHANGES NECESSITATED
+BY THE ESTABLISHMENT OF THE DISCOVER
+DOMINICA AUTHORITY.
+(Gazetted  4th December, 2008.)
+BE IT ENACTED by the Parliament of the Commonwealth of
+Dominica as follows:-
