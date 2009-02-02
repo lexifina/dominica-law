@@ -1,0 +1,4 @@
+1. This Order may be cited as the -
+MARKS, COLLECTIVE MARKS  AND
+TRADE NAMES   (COMMENCEMENT)
+ORDER, 2008.
