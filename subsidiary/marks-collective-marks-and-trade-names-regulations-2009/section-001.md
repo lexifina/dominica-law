@@ -1,0 +1,3 @@
+1. These Regulations may be cited as the-
+MARKS, COLLECTIVE MARKS AND TRADE
+NAMES REGULATIONS, 2009.
