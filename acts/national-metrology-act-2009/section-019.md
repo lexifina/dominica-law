@@ -1,0 +1,5 @@
+19.
+Sellers to weigh article if required.
+PART V
+MANUFACTURE AND INSPECTION
+OF MEASURING INSTRUMENTS
