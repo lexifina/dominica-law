@@ -1,0 +1,3 @@
+1. These Regulations may be cited as the-
+SOCIAL SECURITY (CLAIMS AND PAYMENTS)
+(AMENDMENT) REGULATIONS, 2009.
