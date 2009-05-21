@@ -1,0 +1,3 @@
+1. These Regulations may be cited as the -
+SOCIAL SECURITY (SELF-EMPLOYED
+PERSONS) (AMENDMENT) REGULATIONS, 2009.
