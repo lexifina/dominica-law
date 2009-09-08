@@ -1,0 +1,4 @@
+1. This Order may be cited as the –
+“BUTTERFLIES OF THE CARIBBEAN”
+ COMMEMORATIVE STAMP ISSUE
+       ORDER,  2009.
