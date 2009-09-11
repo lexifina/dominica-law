@@ -1,0 +1,3 @@
+1. These Regulations may be cited as the –
+PUBLIC SERVICE (CARIBBEAN WELLNESS
+DAY) (T-SHIRT) REGUALTIONS 2009.
