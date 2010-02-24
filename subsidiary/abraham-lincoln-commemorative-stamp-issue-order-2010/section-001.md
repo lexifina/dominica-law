@@ -1,0 +1,3 @@
+1. This Order may be cited as the
+ABRAHAM LINCOLN COMMEMORATIVE STAMP
+ISSUE ORDER 2010.
