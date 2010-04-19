@@ -1,0 +1,3 @@
+1. This Order may be cited as the
+ GIRL GUIDES -100TH ANNIVERSARY
+COMMEMORATIVE STAMP ISSUE.
