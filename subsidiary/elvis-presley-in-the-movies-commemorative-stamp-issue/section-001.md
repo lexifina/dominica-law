@@ -1,0 +1,3 @@
+1. This Order may be cited as the
+ELVIS PRESLEY IN THE MOVIES
+COMMEMORATIVE STAMP ISSUE.
