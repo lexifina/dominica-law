@@ -1,0 +1,3 @@
+1. These Regulations may be cited as the-
+TELECOMMUNICATIONS (ACCESS TO
+FACILITIES) REGULATIONS 2010.
