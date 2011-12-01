@@ -1,0 +1,4 @@
+12. The Minister may make regulations prescribing all matters –
+(a) required or permitted by this Act to be prescribed; or
+(b) necessary to be prescribed for carrying out or
+giving effect to this Act.
