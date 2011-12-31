@@ -1,0 +1,77 @@
+53.
+(1) A co-operative society shall be managed by a
+Board of directors which shall be constituted in accordance with
+this Act and the bye-laws of the co-operative society.
+Board of directors.
+Effective date of the bye-
+laws.
+
+2011                  CO-OPERATIVE SOCIETIES                  ACT 2
+(2) The Board shall be constituted by not less than five
+and not more than thirteen directors, as specified in the bye-laws.
+(3) The members of a co-operative society may amend
+the bye-laws to vary the number of directors, but no amendment
+to decrease the number of directors affects an incumbent director.
+(4) A person who—
+(a) has been sentenced by a  Court in any country for
+an offence involving fraud or dishonesty and has
+not received a free pardon for that offence;
+(b) has been convicted of an offence under the
+Money Laundering (Prevention) Act or the
+Suppression of the Financing of Terrorism Act;
+(c) is not in good financial standing with a co-operative
+society;
+(d) has made an arrangement with his  or her creditors;
+(e) was a director of a failed co-operative society of
+the same type;
+(f) has been convicted on indictment of an offence in
+connection with the promotion, formation or
+management of a body corporate;
+(g) has been convicted of an offence under this Act;
+(h) is of unsound mind and has been so found by a
+court in Dominica;
+(i) is or becomes bankrupt;
+(j) is under the age of eighteen years or, in the case
+of a junior co-operative, under the age of ten
+years;
+(k) has not been a member of the co-operative society
+or a duly appointed representative of a member co-
+operative society for the past twelve months;
+
+2011              CO-OPERATIVE SOCIETIES                 ACT 2
+(l) is a member who has not transacted any business
+with the co-operative society for twelve
+consecutive months, or who represents a member
+co-operative society who has not transacted any
+business with the co-operative society for twelve
+consecutive months;
+(m) is an employee of the co-operative society or of
+the Registrar, or is a partner or employee of the
+co-operative society’s auditor, or of the apex
+body;
+(n) holds less than the minimum level of equity shares
+in accordance with section 13(1)(a)(v);
+(o) is already part of the management of another co-
+operative society of the same type;
+(p) has been suspended, removed or prohibited from
+serving as an  officer or director of a financial
+institution, including a credit union by a supervisory
+authority
+shall not constitute part of the management of a co-operative
+society, until his or her disability is removed, but he or she retains
+his or her membership of the co-operative society during the
+period of such disability.
+(5) For the purposes of this Part “management” includes
+a person who—
+(a) holds membership of the Board or any committee
+established by a co-operative society; and
+(b) is employed by the Board.
+(6) A person who knowingly holds membership of the
+Board or of a committee of a co-operative society, or who
+knowingly seeks employment with, or is employed or continues to
+be employed by a co-operative society whilst disqualified under
+
+2011                  CO-OPERATIVE SOCIETIES                  ACT 2
+this section commits an offence and is liable on summary conviction
+to a fine not exceeding ten thousand dollars or to imprisonment for
+a term not exceeding one year or to both.
