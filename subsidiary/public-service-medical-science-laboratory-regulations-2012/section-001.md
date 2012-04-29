@@ -1,0 +1,3 @@
+1. These Regulations my be cited as the -
+PUBLIC SERVICE (MEDICAL SCIENCE
+LABORATORY) REGULATIONS, 2012
