@@ -1,0 +1,3 @@
+1. These Regulations my be cited as the -
+PUBLIC SERVICE (INLAND REVENUE DIVISION)
+(T-SHIRT) REGULATIONS, 2012
