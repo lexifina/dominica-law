@@ -1,0 +1,3 @@
+1. These Regulations may be cited as the -
+FRESH PRODUCE EXPORT QUALITY
+CONTROL REGUALTIONS, 2012.
