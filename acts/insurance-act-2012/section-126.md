@@ -1,0 +1,9 @@
+126. (1) If a beneficiary is not designated irrevocably, the
+policyholder may assign, exercise rights under or in respect of,
+surrender or otherwise deal with the policy as provided in the
+policy or in this Part or as may be agreed upon with the registered
+insurance company.
+(2) If a beneficiary is designated irrevocably, the
+policyholder may not assign the policy, use the policy as a
+security, surrender it or otherwise deal with it without the consent
+in writing of the designated beneficiary.
