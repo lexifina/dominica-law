@@ -1,0 +1,3 @@
+1. This Order may be cited as the –
+PLANT PROTECTION AND QUARANTINE
+(BLACK SIGATOKA) ORDER, 2013.
