@@ -1,0 +1,13 @@
+2013            FINANCIAL SERVICES UNIT        ACT 10
+(AMENDMENT)
+COMMONWEALTH OF DOMINICA
+I assent
+      E.T. WILLIAMS
+President
+21st  May, 2013
+AN ACT TO PROVIDE FOR THE AMENDMENT OF
+THE FINANCIAL SERVICES UNIT ACT, NO. 18
+OF 2008.
+BE IT ENACTED by the Parliament of the Commonwealth of
+Dominica as follows:
+ (Gazetted 23rd May, 2013)
