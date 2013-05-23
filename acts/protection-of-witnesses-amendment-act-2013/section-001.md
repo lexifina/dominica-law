@@ -1,0 +1,8 @@
+1. This Act may be cited as the –
+PROTECTION OF WITNESSES (AMENDMENT)
+ACT, 2013.
+Short title.
+LS
+
+     PROTECTION OF WITNESSES       ACT 12
+(AMENDMENT)
