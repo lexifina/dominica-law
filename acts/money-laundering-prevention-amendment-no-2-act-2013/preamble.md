@@ -1,0 +1,14 @@
+2013                   MONEY LAUNDERING             ACT 8
+(PREVENTION) (AMENDMENT)
+COMMONWEALTH OF DOMINICA
+ACT N0. 8 OF 2013
+I assent
+E.T.WILLIAMS
+President
+21st May, 2013
+AN ACT TO PROVIDE FOR THE AMENDMENT OF
+THE MONEY LAUNDERING (PREVENTION)
+ACT, ACT NO. 8 OF 2011.
+BE IT ENACTED by the Parliament of the Commonwealth of
+Dominica as follows –
+(Gazetted 23rd May, 2013.)
