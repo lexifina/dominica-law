@@ -1,0 +1,3 @@
+23. Unless otherwise provided by law, the parties to an
+electronic transaction may agree to the use of a particular method
+or form of electronic signature or security procedure.

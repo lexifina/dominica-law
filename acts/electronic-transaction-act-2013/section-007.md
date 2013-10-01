@@ -1,0 +1,7 @@
+7. An electronic communication shall not be denied legal
+effect, validity, admissibility or enforceability solely on the ground
+that it is –
+(a) rendered or made available in electronic form; or
+(b) not contained in the electronic communication
+purporting to give rise to such legal effect, but is
+referred to in that electronic communication.
