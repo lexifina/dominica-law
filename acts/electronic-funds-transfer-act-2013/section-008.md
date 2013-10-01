@@ -1,0 +1,4 @@
+8. A person who, with intent to defraud an issuer, a creditor,
+or any other person, obtains control over a card as security for a
+debt commits an offence and is liable on summary conviction to a
+fine of twenty thousand dollars.

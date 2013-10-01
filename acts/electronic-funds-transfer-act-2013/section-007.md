@@ -1,0 +1,4 @@
+7. A person other than an issuer who sells a card or a person
+who buys a card from a person other than an issuer commits an
+offence and is liable on summary conviction to a fine of twenty
+thousand dollars.
