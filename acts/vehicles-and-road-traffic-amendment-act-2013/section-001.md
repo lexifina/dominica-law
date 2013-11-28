@@ -1,0 +1,8 @@
+1. This Act may cited as the –
+VEHICLES AND ROAD TRAFFIC
+(AMENDMENT) ACT, 2013.
+Short title.
+LS
+
+ 2013         VEHICLES AND ROAD TRAFFIC         ACT 23
+ (AMENDMENT)
