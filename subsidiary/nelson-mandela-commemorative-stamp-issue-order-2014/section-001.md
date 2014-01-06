@@ -1,0 +1,3 @@
+1. This Order may be cited as the -
+“NELSON MANDELA” COMMEMORATIVE
+STAMP ISSUE ORDER, 2014.
