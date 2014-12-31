@@ -1,0 +1,3 @@
+1. These Rules may be cited as the –
+EASTERN CARIBBEAN SUPREME COURT
+(SITTINGS OF THE COURT) RULES 2014.
