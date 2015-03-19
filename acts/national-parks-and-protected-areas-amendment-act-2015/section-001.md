@@ -1,0 +1,10 @@
+1. This Act may be cited as the -
+NATIONAL PARKS AND PROTECTED AREAS
+(AMENDMENT) ACT, 2015.
+ 2015               NATIONAL PARKS AND               ACT 1
+PROTECTED AREAS (AMENDMENT)
+Short title.
+LS
+
+2015                NATIONAL PARKS AND               ACT 1
+PROTECTED AREAS (AMENDMENT)
