@@ -1,0 +1,8 @@
+1. This Act may be cited as the –
+INTERNATIONAL BUSINESS
+COMPANIES (AMENDMENT) ACT, 2015.
+Short title.
+LS
+
+2015           INTERNATIONAL BUSINESS          ACT 9
+COMPANIES (AMENDMENT)
