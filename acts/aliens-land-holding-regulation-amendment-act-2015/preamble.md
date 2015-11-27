@@ -1,0 +1,13 @@
+ALIENS LAND HOLDING
+ACT 17
+REGULATION (AMENDMENT)
+  COMMONWEALTH OF DOMINICA
+I assent
+CONRAD O. MCINTYRE
+President (Ag)
+27th November, 2015
+AN ACT TO AMEND THE ALIENS LAND HOLDING
+REGULATION ACT, NO. 17 OF 1995.
+BE IT ENACTED by the Parliament of the Commonwealth of
+Dominica as follows:
+(Gazetted 27th November, 2015)
