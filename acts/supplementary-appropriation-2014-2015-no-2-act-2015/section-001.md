@@ -1,0 +1,7 @@
+1. This Act may be cited as the -
+SUPPLEMENTARY APPROPRIATION
+(2014/2015) (NO. 2) ACT, 2015.
+Short title.
+LS
+
+2015     SUPPLEMENTARY APPROPRIATION      ACT 19
