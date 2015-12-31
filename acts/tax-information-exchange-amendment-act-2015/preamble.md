@@ -1,0 +1,14 @@
+TAX INFORMATION
+ACT 6
+EXCHANGE (AMENDMENT)
+Short title.
+COMMONWEALTH OF DOMINICA
+I assent
+CHARLES A. SAVARIN
+President
+30, July 2015
+AN ACT TO AMEND THE TAX INFORMATION EX-
+CHANGE ACT, CHAPTER 67:02.
+(Gazetted  30th July , 2015)
+BE IT ENACTED by the Parliament of the Commonwealth of
+Dominica as follows:
