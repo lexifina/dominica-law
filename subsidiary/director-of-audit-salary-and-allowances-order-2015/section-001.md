@@ -1,0 +1,3 @@
+1. This Order may be cited as the –
+DIRECTOR OF AUDIT (SALARY AND
+ALLOWANCES) ORDER, 2015.
