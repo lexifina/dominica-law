@@ -1,0 +1,3 @@
+1. This Order may be cited as the  -
+LAPLAINE/LA RONDE VILLAGE COUNCIL
+(DISSOLUTION) ORDER, 2016.
