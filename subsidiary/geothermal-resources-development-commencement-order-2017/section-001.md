@@ -1,0 +1,3 @@
+1. This Order may be cited as the -
+GEOTHERMAL RESOURCES DEVELOPMENT
+(COMMENCEMENT) ORDER, 2017.
