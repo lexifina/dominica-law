@@ -1,0 +1,9 @@
+IMMIGRATION AND PASSPORT
+S.R.O. 10
+AMENDMENT
+COMMONWEALTH OF DOMINICA
+STATUTORY RULES AND ORDERS NO. 10 OF 2016.
+REGULATIONS
+MADE by the Minister under section 29 of the Immigration and
+Passport Act (Chap. 18:01).
+(Gazetted March 31, 2016.)
