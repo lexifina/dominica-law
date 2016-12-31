@@ -1,0 +1,3 @@
+1. This Notice may be cited as the  -
+TELECOMMUNICATIONS (LICENCE
+CLASSIFICATION) NOTICE, 2016.
