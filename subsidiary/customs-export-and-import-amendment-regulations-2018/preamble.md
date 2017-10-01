@@ -1,0 +1,8 @@
+CUSTOMS IMPORT AND          S.R.O. 25
+EXPORT TARIFF (AMENDMENT)
+COMMONWEALTH OF DOMINICA
+STATUTORY RULES AND ORDERS NO. 25 OF 2018.
+REGULATIONS
+MADE by the Minister under sections 78 and 272 of the Customs
+Act 2010 (Act No. 20 of 2010).
+(Gazetted 19th July, 2018.)
