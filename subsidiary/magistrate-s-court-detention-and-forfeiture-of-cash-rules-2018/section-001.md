@@ -1,0 +1,4 @@
+1. These Rules may be cited as the –
+MAGISTRATE’S COURT
+(DETENTION AND FORFEITURE OF CASH)
+RULES, 2018.
