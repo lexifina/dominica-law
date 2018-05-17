@@ -1,0 +1,9 @@
+1. This Act may be cited as the –
+RAPID RESPONSE SOCIAL
+RECOVERY AGENCY ACT, 2018.
+2018              RAPID RESPONSE SOCIAL             ACT 5
+ RECOVERY AGENCY
+Short title.
+
+2018             RAPID RESPONSE SOCIAL            ACT 5
+RECOVERY AGENCY
