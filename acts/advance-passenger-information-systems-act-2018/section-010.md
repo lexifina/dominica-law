@@ -1,0 +1,7 @@
+10. (1) Advance passenger information collected under this
+Act for entry screening purposes shall be retained for  a period not
+exceeding three years from the date of travel of the crew member
+or passenger of the aircraft or vessel.
+(2) Subsection (1) does not apply to information or data
+copied from the APIS into any other security database system to
+which a different data retention schedule applies.
