@@ -1,0 +1,6 @@
+26. If a person enters into any arrangements or engages in a
+practice, the main purpose or one of the main purposes, of which
+can reasonably be considered to be to avoid an obligation imposed
+under this Act or Regulations made under this Act, the person is
+subject to the obligation as if the person had not entered into the
+arrangement or engaged in the practice.
