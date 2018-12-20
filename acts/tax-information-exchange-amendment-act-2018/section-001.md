@@ -1,0 +1,7 @@
+1.  This Act may be cited as the –
+TAX INFORMATION EXCHANGE
+(AMENDMENT) ACT, 2018.
+Short title.
+
+TAX INFORMATION EXCHANGE
+ACT 17
