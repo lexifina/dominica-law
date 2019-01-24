@@ -1,0 +1,11 @@
+1. This Act may be cited as the –
+OFFSHORE BANKING
+(AMENDMENT) ACT, 2019.
+2019               OFFSHORE BANKING
+ACT 1
+(AMENDMENT)
+Short title.
+
+2019               OFFSHORE BANKING
+ACT 1
+(AMENDMENT)
