@@ -1,0 +1,8 @@
+1. This Act may be cited as the –
+FISCAL INCENTIVES
+(AMENDMENT) ACT, 2019.
+Short title.
+
+FISCAL INCENTIVES
+ACT 3
+(AMENDMENT)
