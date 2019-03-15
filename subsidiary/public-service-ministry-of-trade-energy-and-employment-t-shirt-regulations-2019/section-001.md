@@ -1,0 +1,4 @@
+1. These Regulations may be cited as the –
+PUBLIC SERVICE
+(MINISTRY OF TRADE, ENERGY AND
+EMPLOYMENT) (T-SHIRT) REGULATIONS, 2019.
