@@ -1,0 +1,2 @@
+7.
+Standard conditions.
