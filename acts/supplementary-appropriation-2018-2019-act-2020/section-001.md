@@ -1,0 +1,6 @@
+1. This Act may be cited as the -
+SUPPLEMENTARY APPROPRIATION
+(2018/2019) ACT, 2020.
+Short title.
+
+2020   SUPPLEMENTARY APPROPRIATION     ACT 1
