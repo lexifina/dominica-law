@@ -1,0 +1,8 @@
+35. Where goods are received at an Aerodrome for transport
+on an aircraft and these goods are not accompanied by a person
+who may give the permission to screen the goods, an aviation
+security officer or aviation screening officer may carry out an
+authorised search of the goods in the presence of the aircraft
+operator concerned or a regulated agent, and in carrying out that
+search may use such force as may reasonably be necessary to
+gain access to the goods.
