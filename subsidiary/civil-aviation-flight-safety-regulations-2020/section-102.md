@@ -1,0 +1,12 @@
+102. (1) The Director shall, from time to time, issue the
+Implementing Standards which are applicable to these Regulations
+and which are referred to in the Schedule.
+(2) Implementing Standards issued pursuant to sub-regu-
+lation (1) are legally binding and a contravention of any provision
+of the Implementing Standards is a contravention of these Regu-
+lations.
+Non-application to ultra
+small aircraft.
+Implementing Standards.
+
+2020                     CIVIL AVIATION                    S.R.O. 8
