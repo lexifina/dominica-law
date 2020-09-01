@@ -1,0 +1,13 @@
+TITLE BY REGISTRATION
+ACT 11
+(AMENDMENT)
+COMMONWEALTH OF DOMINICA
+I assent
+CHARLES A. SAVARIN
+President
+30thOctober, 2020
+AN ACT TO AMEND THE TITLE BY REGISTRATION
+ACT, CHAP. 56:50.
+BE IT ENACTED by the Parliament of the Commonwealth of
+Dominica as follows:
+(Gazetted 30th October, 2020).
