@@ -1,0 +1,18 @@
+13. (1) Subject to subsection (2) where -
+(a) a court or police officer grants bail to a defendant;
+(b) a court withholds bail from a defendant;
+(c) a court, or police officer appoints a time or place
+or a court or police officer appoints a different
+time or place for  a person granted bail to
+surrender to custody;
+(d) a court, varies any conditions of bail or imposes
+conditions in respect of bail,
+that court or police officer shall  make  a written record of the
+decision in the prescribed manner, containing the prescribed
+particulars and, if requested to do so by the defendant, shall give
+him a copy of the record of the decision as soon as  practicable
+after the record is made.
+(2) Where bail is granted by endorsing a warrant of
+arrest for bail, the police officer who releases on bail the person
+arrested shall make the record required by subsection (1) instead
+of the judge or magistrate who issued the warrant.
