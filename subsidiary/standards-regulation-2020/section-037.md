@@ -1,0 +1,4 @@
+37. The Bureau may direct that any advertisement, label or
+package used in connection with any goods, service, process or
+practice for which a compulsory standard has been declared be
+published or used in trade only with the approval of the Bureau.
