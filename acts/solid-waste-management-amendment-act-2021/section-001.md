@@ -1,0 +1,9 @@
+1. This Act may be cited as the –
+    SOLID WASTE MANAGEMENT
+(AMENDMENT) ACT, 2021.
+Short title.
+LS
+
+SOLID WASTE MANAGEMENT
+ACT 3
+(AMENDMENT)

@@ -1,0 +1,13 @@
+SOLID WASTE MANAGEMENT
+ACT 3
+(AMENDMENT)
+COMMONWEALTH OF DOMINICA
+I assent
+CHARLES A. SAVARIN
+President
+ 30th April, 2021
+AN ACT TO AMEND THE SOLID WASTE
+MANAGEMENT ACT, CHAP. 42:06.
+(Gazetted 4th May, 2021.)
+BE IT ENACTED by the Parliament of the Commonwealth of
+Dominica as follows:
