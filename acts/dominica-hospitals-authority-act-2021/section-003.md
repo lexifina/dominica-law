@@ -1,0 +1,9 @@
+3.
+This Act binds the State.
+Act binds the State.
+
+DOMINICA HOSPITALS
+     ACT 8
+AUTHORITY
+PART I
+THE DOMINICA HOSPITAL AUTHORITY
