@@ -1,0 +1,8 @@
+COMPANIES
+S.R.O. 12
+COMMONWEALTH OF DOMINICA
+STATUTORY RULES AND ORDERS NO. 12 OF 2021.
+REGULATIONS
+MADE BY  the Minister under sections 511(5) and 527 of the
+Companies Act, Chapter 78:01.
+(Gazetted 14th July, 2021.)

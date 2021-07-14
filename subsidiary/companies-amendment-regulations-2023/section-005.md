@@ -1,0 +1,3 @@
+5.
+Date company was struck from the register of companies
+__________________________________________________________________________
