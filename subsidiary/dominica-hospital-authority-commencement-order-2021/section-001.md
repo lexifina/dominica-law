@@ -1,0 +1,3 @@
+1. This Order may be cited as the -
+DOMINICA HOSPITALS
+AUTHORITY (COMMENCEMENT) ORDER, 2021.
