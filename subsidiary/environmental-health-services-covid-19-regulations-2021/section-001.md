@@ -1,0 +1,3 @@
+1. These Regulations may be cited as the –
+ENVIRONMENTAL HEALTH SERVICES
+(COVID-19) REGULATIONS, 2021.
