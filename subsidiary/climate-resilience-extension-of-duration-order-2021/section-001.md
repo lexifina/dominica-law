@@ -1,0 +1,3 @@
+1. This Order may be cited as the –
+CLIMATE RESILIENCE (EXTENSION
+OF DURATION) ORDER, 2021.
