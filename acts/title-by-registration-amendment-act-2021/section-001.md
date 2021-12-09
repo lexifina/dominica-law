@@ -1,0 +1,8 @@
+1. This Act may be cited as the –
+TITLE BY REGISTRATION
+(AMENDMENT) ACT, 2021.
+Short title.
+TITLE BY REGISTRATION
+ACT 11
+(AMENDMENT)
+LS
