@@ -1,0 +1,10 @@
+EASTERN CARIBBEAN ASSET
+S.R.O. 9
+MANAGEMENT CORPORATION
+(SCHEDULE) (AMENDMENT)
+COMMONWEALTH OF DOMINICA
+STATUTORY RULES AND ORDERS NO. 9 OF 2024
+ORDER
+MADE by the Minister under section 10 of the Eastern Caribbean
+ Asset Management Corporation Act, Chap.74:08.
+   (Gazetted 11th July, 2024.)
