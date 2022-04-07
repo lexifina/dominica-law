@@ -1,0 +1,9 @@
+ENVIRONMENTAL HEALTH
+S.R.O. 13
+SERVICES
+COMMONWEALTH OF DOMINICA
+STATUTORY RULES AND ORDERS NO. 13 OF 2022.
+REGULATIONS
+MADE by the Minister under section 30 of the Environmental
+Health Services Act, Chap. 42:01.
+(Gazetted 7th April, 2022.)
