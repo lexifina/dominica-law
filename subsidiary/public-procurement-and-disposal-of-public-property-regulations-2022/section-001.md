@@ -1,0 +1,4 @@
+1. These Regulations may be cited as the –
+PUBLIC PROCUREMENT AND
+DISPOSAL OF PUBLIC PROPERTY
+REGULATIONS, 2022.
