@@ -1,0 +1,4 @@
+1. These Regulations may be cited as the –
+COMMONWEALTH OF DOMINICA
+CITIZENSHIP (CHANGE OF NAME)
+REGULATIONS, 2022.
