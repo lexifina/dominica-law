@@ -1,0 +1,3 @@
+1. This Order may be cited as the –
+MONEY LAUNDERING (PREVENTION)
+(AMENDMENT) REGULATIONS, 2022.
