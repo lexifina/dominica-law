@@ -1,0 +1,12 @@
+PROCEEDS OF CRIME
+ACT 4
+COMMONWEALTH OF DOMINICA
+I assent
+CHARLES A. SAVARIN
+President
+24th August, 2022
+AN ACT TO PROVIDE FOR THE AMENDMENT OF
+THE PROCEEDS OF CRIME ACT, CHAP. 12:29.
+(Gazetted 25th August, 2022).
+BE IT ENACTED by the Parliament of the Commonwealth of
+Dominica as follows –
