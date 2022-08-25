@@ -1,0 +1,9 @@
+1.  This Act may be cited as the –
+MONEY LAUNDERING
+(PREVENTION) (AMENDMENT) ACT, 2022.
+Short title.
+LS
+
+MONEY LAUNDERING
+ACT 3
+(PREVENTION)

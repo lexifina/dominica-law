@@ -1,0 +1,14 @@
+MONEY LAUNDERING
+ACT 3
+(PREVENTION)
+COMMONWEALTH OF DOMINICA
+I assent
+CHARLES A. SAVARIN
+President
+24th August, 2022
+AN ACT TO PROVIDE FOR THE AMENDMENT OF
+THE MONEY LAUNDERING (PREVENTION) ACT,
+CHAP. 73:03.
+(Gazetted 25th August, 2022.)
+BE IT ENACTED by the Parliament of the Commonwealth of
+Dominica as follows –
