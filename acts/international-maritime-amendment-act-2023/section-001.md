@@ -1,0 +1,9 @@
+1. This Act may be cited as the –
+INTERNATIONAL MARITIME
+(AMENDMENT) ACT, 2023.
+Short title.
+LS
+
+INTERNATIONAL MARITIME
+ACT 8
+(AMENDMENT)

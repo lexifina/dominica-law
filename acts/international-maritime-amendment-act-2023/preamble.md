@@ -1,0 +1,13 @@
+INTERNATIONAL MARITIME
+ACT 8
+(AMENDMENT)
+COMMONWEALTH OF DOMINICA
+I assent
+CHARLES A. SAVARIN
+President
+16th February, 2023
+AN ACT TO AMEND THE INTERNATIONAL
+MARITIME ACT, CHAPTER 48:51.
+(Gazetted 17th February, 2023.)
+BE IT ENACTED by the Parliament of the Commonwealth of
+Dominica as follows:
