@@ -1,0 +1,112 @@
+7.00
+ Colihaut
+Dublanc/Bioche
+1.50
+0.50
+2.00
+ Colihaut
+Portsmouth
+3.50
+0.50
+4.00
+ Coulibistrie Colihaut
+1.50
+0.50
+2.00
+ Coulibistrie Dublanc/Bioche
+2.50
+0.50
+3.00
+ Coulibistrie Portsmouth
+5.00
+1.00
+6.00
+ Layou
+St. Joseph
+1.50
+0.50
+2.00
+ Layou
+Mero
+2.00
+0.50
+2.50
+ Layou
+Salisbury
+2.00
+0.50
+2.50
+ Layou
+Coulibistrie
+2.50
+0.50
+3.00
+ Layou
+Colihaut
+3.50
+0.50
+4.00
+ Layou
+Dublanc/Bioche
+4.00
+1.00
+5.00
+ Layou
+Portsmouth
+6.00
+1.00
+7.00
+ Loubiere
+Pointe Michel
+1.50
+0.50
+2.00
+ Loubiere
+Soufriere
+2.50
+0.50
+3.00
+ Loubiere
+Scotts Head
+2.50
+0.50
+3.00
+ Loubiere
+Bellevue Chopin
+2.50
+0.50
+3.00
+ Loubiere
+Pichelin
+2.50
+0.50
+3.00
+ Loubiere
+Grand Bay
+3.50
+0.50
+4.00
+ Loubiere
+Tete Morne
+5.00
+1.00
+6.00
+ Loubiere
+Dubique
+3.50
+0.50
+4.00
+ Loubiere
+Bagatelle
+4.50
+0.50
+5.00
+ Loubiere
+Petite Savanne
+5.50
+0.50
+6.00
+ Loubiere
+Delices
+7.50
+0.50
