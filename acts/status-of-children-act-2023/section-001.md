@@ -1,0 +1,9 @@
+1. This Act may be cited as the —
+STATUS OF CHILDREN ACT, 2023.
+Short title.
+LS
+STATUS OF CHILDREN
+ACT 10
+
+STATUS OF CHILDREN
+ACT 10
