@@ -1,0 +1,3 @@
+1. This Order may be cited as the –
+CHILDREN (CARE AND ADOPTION)
+(COMMENCEMENT) ORDER, 2023.
