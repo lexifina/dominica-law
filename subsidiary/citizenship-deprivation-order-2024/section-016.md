@@ -1,0 +1,9 @@
+16. Ako
+Raher
+Ahmad Bakir
+Iraq
+Female
+October 26th 2021
+
+2024 COMMONWEALTH OF DOMINICA S.R.O. 4
+CITIZENSHIP

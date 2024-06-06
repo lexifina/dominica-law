@@ -1,0 +1,8 @@
+54. Naeem
+Salman
+Pakistan
+Male
+September 30th 2020
+
+2024 COMMONWEALTH OF DOMINICA S.R.O. 4
+CITIZENSHIP
