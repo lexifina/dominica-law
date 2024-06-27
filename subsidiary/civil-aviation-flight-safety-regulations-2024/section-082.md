@@ -1,0 +1,8 @@
+82. (1) An authorized person may inspect and copy any document issued pursuant to these
+Regulations.
+
+2024                                                      CIVIL AVIATION                                                              S. R O. 7
+
+(2)  A person shall not obstruct, impede or otherwise interfere with the copying of the documents
+in referred to in sub-regulation (1) by an authorized person.
+Production of documents and records.

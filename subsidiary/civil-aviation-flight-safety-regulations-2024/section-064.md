@@ -1,0 +1,4 @@
+64. A person shall not operate an aircraft in aerial work within Dominica unless the person is the
+holder of a valid certificate for the purpose of that aerial work issued pursuant to these Regulations and to
+Part 11 of the Schedule and the conditions subject to which the certificate was issued are complied with.
+Prohibition on dropping of articles.
