@@ -1,0 +1,9 @@
+18. (1) An area control center or flight information center
+shall be identified by the name of a nearby town or city or
+geographic feature.
+(2) An aerodrome control tower or approach control unit
+shall be identified by the name of the aerodrome at which it is
+located.
+(3) A control zone, control area or flight information
+region shall be identified by the name of the unit having jurisdiction
+over such airspace.

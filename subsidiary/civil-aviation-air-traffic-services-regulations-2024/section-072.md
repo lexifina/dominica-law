@@ -1,0 +1,3 @@
+72. ATS units shall use all available communication facilities
+to establish and maintain communication with an aircraft in a state
+of emergency and to request news of the aircraft.

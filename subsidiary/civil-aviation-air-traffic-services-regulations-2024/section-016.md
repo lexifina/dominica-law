@@ -1,0 +1,6 @@
+16. Where it is desirable to limit the number of flight
+information regions or control areas through which high flying
+aircraft would otherwise have to operate, a flight information
+region or control area, as appropriate, shall be delineated to
+include the upper airspace within the lateral limits of a number of
+lower flight information regions or control areas.

@@ -1,0 +1,2 @@
+50. Air traffic control clearances shall be based solely on the
+requirements for providing air traffic control service.
