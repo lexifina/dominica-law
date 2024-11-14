@@ -1,0 +1,4 @@
+1. These Regulations may be cited as the-
+VEHICLES AND ROAD TRAFFIC
+(FIRST SCHEDULE)
+(AMENDMENT) REGULATIONS 2024.
