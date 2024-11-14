@@ -1,0 +1,9 @@
+CO-OPERATIVE SOCIETIES
+S.R.O. 33
+(AMENDMENT) REGULATIONS
+COMMONWEALTH OF DOMINICA
+STATUTORY RULES AND ORDERS No. 33 OF 2024.
+REGULATIONS
+MADE by the Minister under section 252 of the Co-Operative
+Societies Act, Chap.78:03.
+(Gazetted 14th November,  2024.)
