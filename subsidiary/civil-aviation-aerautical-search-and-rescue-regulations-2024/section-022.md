@@ -1,0 +1,7 @@
+22. The authorities directing the conduct of search and
+rescue operations in the field, or any part shall —
+(a) give instructions to the units under their direction
+and inform the Rescue Coordination Centre of
+such instructions; and
+(b) keep the Rescue Coordination Centre informed
+of any developments.
