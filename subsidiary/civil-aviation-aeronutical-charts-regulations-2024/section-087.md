@@ -1,0 +1,5 @@
+87. The aeronautical cartographic service provider shall
+ensure that the Standard Departure Chart-Instrument provides
+the flight crew with information to enable it to comply with the
+designated standard departure route instrument from take-off
+phase to the en-route phase.

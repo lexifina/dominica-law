@@ -1,0 +1,3 @@
+247. The aeronautical cartographic service provider shall
+ensure that it is possible to vary the scale at which a chart is
+displayed.

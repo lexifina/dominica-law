@@ -1,0 +1,9 @@
+SCHEDULE 2
+(Regulation 14)
+Color Guide
+
+CIVIL AVIATION
+S.R.O. 22
+
+CIVIL AVIATION
+S.R.O. 22

@@ -1,0 +1,7 @@
+SCHEDULE 3
+Regulation15(b)
+(Regulation 15(b))
+HYPOSOMETRIC TINT GUIDE
+
+CIVIL AVIATION
+S.R.O. 22
