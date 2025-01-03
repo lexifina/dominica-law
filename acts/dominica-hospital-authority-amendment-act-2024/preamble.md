@@ -1,0 +1,13 @@
+DOMINICA HOSPITALS
+ACT 13
+AUTHORITY (AMENDMENT)
+COMMONWEALTH OF DOMINICA
+I assent
+SYLVANIE BURTON
+President
+24th December, 2024
+AN ACT TO AMEND THE DOMINICA HOSPITALS
+AUTHORITY ACT, 2021 (NO. 8 OF 2021).
+(Gazetted  3rd January, 2025.)
+BE IT ENACTED by the Parliament of the Government of
+Dominica as follows:
