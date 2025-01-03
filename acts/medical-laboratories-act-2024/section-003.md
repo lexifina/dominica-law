@@ -1,0 +1,3 @@
+3. This Act binds the State.
+PART 1
+MEDICAL LABORATORIES COUNCIL
