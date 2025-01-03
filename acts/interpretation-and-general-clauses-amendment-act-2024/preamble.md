@@ -1,0 +1,14 @@
+INTERPRETATION AND
+ACT 10
+GENERAL CLAUSES
+(AMENDMENT)
+COMMONWEALTH OF DOMINICA
+I assent
+  SYLVANIE BURTON
+               President
+24th December, 2024
+AN ACT TO AMEND THE INTERPRETATION AND
+GENERAL CLAUSES ACT, CHAP. 3:01.
+(Gazetted 3rd January, 2025.)
+BE IT ENACTED by the Parliament of the Commonwealth of
+Dominica as follows :
