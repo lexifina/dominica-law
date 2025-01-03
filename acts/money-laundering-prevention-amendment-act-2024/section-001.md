@@ -1,0 +1,8 @@
+1. This Act may be cited as the-
+MONEY LAUNDERING (PREVENTION)
+(AMENDMENT) ACT, 2024
+Short title.
+
+MONEY LAUNDERING
+ACT 8
+PREVENTION

@@ -1,0 +1,14 @@
+MONEY LAUNDERING
+ACT 8
+PREVENTION
+COMMONWEALTH OF DOMINICA
+I assent
+SYLVANIE BURTON
+President
+24th December, 2024
+AN ACT TO PROVIDE FOR THE AMENDMENT OF
+THE MONEY LAUNDERING (PREVENTION)
+ACT, CHAP. 73:03.
+(Gazetted 3rd January, 2025.)
+BE IT ENACTED by the Parliament of the Commonwealth of
+Dominica as follows-
