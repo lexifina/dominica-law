@@ -1,0 +1,9 @@
+1. This Act may be cited as the-
+PROCEEDS OF CRIME (AMENDMENT)
+ACT, 2024.
+Short title.
+PROCEEDS OF CRIME
+ACT 9
+
+PROCEEDS OF CRIME
+ACT 9
