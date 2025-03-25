@@ -1,0 +1,6 @@
+1. This Act may be cited as the –
+ REGISTRATION OF ELECTORS ACT, 2025.
+Short title.
+
+REGISTRATION OF ELECTORS
+ACT 1
