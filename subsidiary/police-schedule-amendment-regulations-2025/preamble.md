@@ -1,0 +1,8 @@
+POLICE
+S.R.O. 14
+COMMONWEALTH OF DOMINICA
+STATUTORY RULES AND ORDERS NO. 14 OF 2025.
+REGULATIONS
+MADE by the Minister under section 32 of the Police Act (Chap.
+14:01).
+(Gazetted 8th May, 2025.)
