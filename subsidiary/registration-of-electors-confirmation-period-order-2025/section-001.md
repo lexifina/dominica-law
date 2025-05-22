@@ -1,0 +1,3 @@
+1. This Order may be cited as the -
+REGISTRATION OF ELECTORS (CONFIRMATION
+PERIOD) ORDER, 2025.
