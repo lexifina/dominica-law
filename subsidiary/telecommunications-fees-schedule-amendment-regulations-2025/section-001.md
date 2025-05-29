@@ -1,0 +1,3 @@
+1. These Regulations may be cited as the -
+TELECOMMUNICATIONS (FEES) (SCHEDULES)
+(AMENDMENT) REGULATIONS, 2025.
