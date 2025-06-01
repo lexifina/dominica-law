@@ -1,0 +1,2 @@
+21. The Minister may make regulations to give effect to the
+provisions of this Act.
