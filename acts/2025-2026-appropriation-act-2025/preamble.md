@@ -1,0 +1,14 @@
+APPROPRIATION
+ACT 6
+COMMONWEALTH OF DOMINICA
+I assent
+SYLVANIE BURTON
+President
+11th August, 2025.
+AN ACT TO PROVIDE FOR THE SERVICES OF THE
+COMMONWEALTH OF DOMINICA FOR THE
+YEAR ENDING ON THE THIRTIETH DAY OF
+JUNE, 2026.
+                (Gazetted  12th August, 2025.)
+BE IT ENACTED by the Parliament of the Commonwealth
+of Dominica as follows:
