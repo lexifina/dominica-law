@@ -1,0 +1,3 @@
+1. This By-law may be cited as the-
+GOOD HOPE VILLAGE COUNCIL ROAD
+AND TRACK BY-LAW, 2025.
