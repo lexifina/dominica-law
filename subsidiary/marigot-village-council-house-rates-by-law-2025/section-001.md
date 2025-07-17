@@ -1,0 +1,3 @@
+1. The By-Law may be cited as the -
+MARIGOT VILLAGE COUNCIL
+HOUSE RATE BY-LAW, 2025
