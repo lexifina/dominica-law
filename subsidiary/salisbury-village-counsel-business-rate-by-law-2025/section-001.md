@@ -1,0 +1,3 @@
+1. The By-Law may be cited as the -
+SALISBURY VILLAGE COUNCIL
+BUSINESS RATE BY-LAW, 2025
