@@ -1,0 +1,3 @@
+1. The By-Law may be cited as the -
+SALISBURY VILLAGE COUNCIL
+CUTTING OF TREES BY-LAW, 2025
