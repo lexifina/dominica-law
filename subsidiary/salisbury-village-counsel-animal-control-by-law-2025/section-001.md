@@ -1,0 +1,3 @@
+1. This BY-LAW shall be cited as the-
+SALISBURY VILLAGE COUNCIL
+ANIMAL CONTROL BY-LAW
