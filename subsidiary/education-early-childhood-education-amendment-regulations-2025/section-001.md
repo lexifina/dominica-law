@@ -1,0 +1,3 @@
+1. These Regulations may be cited as the -
+EDUCATION (EARLY CHILDHOOD EDUCATION)
+(AMENDMENT) REGULATIONS, 2025.
