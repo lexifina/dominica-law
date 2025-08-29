@@ -1,0 +1,7 @@
+1. This Act may be cited as the –
+REGISTRATION OF ELECTORS
+(AMENDMENT) ACT, 2025.
+Short title.
+
+REGISTRATION OF ELECTORS
+ACT 7
