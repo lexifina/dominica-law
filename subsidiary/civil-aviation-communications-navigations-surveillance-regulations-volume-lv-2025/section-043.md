@@ -1,0 +1,2 @@
+43.
+ACASequipmentcharacteristics-polarization.

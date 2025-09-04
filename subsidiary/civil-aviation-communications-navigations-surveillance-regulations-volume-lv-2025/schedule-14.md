@@ -1,0 +1,8 @@
+SCHEDULE 14
+Regulation 51
+ADS-B/TIS_B SYSTEM FUNCTIONAL MODEL
+1.
+Figure 14-1 : ADS-B/TIS-B system functional model
+
+CIVIL AVIATION
+S.R.O. 31
