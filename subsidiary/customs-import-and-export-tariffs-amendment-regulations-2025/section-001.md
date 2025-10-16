@@ -1,0 +1,3 @@
+1.  These Regulations may be cited as the –
+CUSTOMS (IMPORT AND EXPORT TARIFFS)
+(AMENDMENT) REGULATIONS, 2025.
