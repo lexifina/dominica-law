@@ -1,0 +1,4 @@
+1. These Regulations may be cited as the-
+VEHICLE AND ROAD TRAFFIC
+(FIRST SCHEDULE)
+(AMENDMENT) REGULATIONS 2025.
