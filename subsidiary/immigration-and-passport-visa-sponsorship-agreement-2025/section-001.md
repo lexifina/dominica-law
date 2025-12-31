@@ -1,0 +1,3 @@
+1. These Regulations may be cited as the –
+IMMIGRATION (VISA SPONSORSHIP
+AGREEMENT) REGULATIONS, 2025.
