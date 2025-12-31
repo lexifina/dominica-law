@@ -1,0 +1,3 @@
+1. The By-law may be cited as the -
+GOOD HOPE VILLAGE COUNCIL
+BUSINESS RATE BY-LAW, 2025.
