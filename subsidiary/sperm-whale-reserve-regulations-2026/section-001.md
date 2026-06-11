@@ -1,0 +1,4 @@
+1. These Regulations may be cited as the –
+SPERM WHALE RESERVE
+(CORRIDOR AND TRAFFIC ROUTE)
+REGULATIONS, 2026.
