@@ -1,0 +1,11 @@
+{
+ "parts": {
+  "30-electronic-evidence-act-2010.json": {
+   "acts": [
+    "electronic-evidence-act-2010"
+   ],
+   "sha256": "1cea0c90a8643a03053946ea958a246a7679f9707b4bccb427613cd84c86d845"
+  }
+ },
+ "schema": 1
+}
