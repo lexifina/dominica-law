@@ -1,0 +1,47 @@
+{
+ "country": "DM",
+ "acts": [
+  {
+   "slug": "electronic-filing-act-2013",
+   "short": "EFA",
+   "title": "Electronic Filing Act, 2013 (Act 20 of 2013)",
+   "url": "https://dominica.gov.dm/laws/2013/Electronic%20Filing,%202013%20ACT%2020%20of%202013.pdf",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "units": 13,
+     "source_url": "https://dominica.gov.dm/laws/2013/Electronic%20Filing,%202013%20ACT%2020%20of%202013.pdf",
+     "sha256": "65d757ee83e3acaf0cd06e0703ffd452839631aa63e0ed34cae382e7f656520a"
+    }
+   ]
+  },
+  {
+   "slug": "citizenship-by-investment-regulations-2013",
+   "short": "CBIR",
+   "title": "Commonwealth of Dominica Citizenship by Investment Regulations, 2013 (S.R.O. 43 of 2013)",
+   "url": "https://dominica.gov.dm/laws/2013/Commonwealth%20of%20Dominica%20Citizenship%20By%20Investment%20Regulations,%202013%20S.R.O.%2043%20of%202013.pdf",
+   "versions": [
+    {
+     "from": "2014-01-09",
+     "units": 11,
+     "source_url": "https://dominica.gov.dm/laws/2013/Commonwealth%20of%20Dominica%20Citizenship%20By%20Investment%20Regulations,%202013%20S.R.O.%2043%20of%202013.pdf",
+     "sha256": "3f856d377db3bc3a089c38b05b027189cd7155fdcdd8ce0df6d2951c57cc27ee"
+    }
+   ]
+  },
+  {
+   "slug": "electronic-evidence-act-2010",
+   "short": "Electronic Evidence Act",
+   "title": "Electronic Evidence Act, 2010 (Act 13 of 2010)",
+   "url": "https://dominica.gov.dm/laws/2010/Electronic%20Evidence%20no.%2013.pdf",
+   "versions": [
+    {
+     "from": "2010-06-17",
+     "units": 14,
+     "source_url": "https://dominica.gov.dm/laws/2010/Electronic%20Evidence%20no.%2013.pdf",
+     "sha256": "0df90023a392b5a41b3abbea1b6f8308a39a3f3106e0cb1023eb70d5361a553f"
+    }
+   ]
+  }
+ ]
+}
