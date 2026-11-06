@@ -1,5 +1,7 @@
 # Dominica: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Dominica's national law, which global-law reads at `dominica/national/acts/`.
+
 A first, small build of the law of Dominica as a git history: one file per section, one commit per law on the day it took effect, and the law that made the change as the commit's author. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `dm/`.
 
 Language: English (the official language).
