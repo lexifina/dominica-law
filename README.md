@@ -24,7 +24,8 @@ The text is in English, the official language, as the text layer of the Governme
 
 - **[Ask Claude about Dominican law](https://global-law.lexifina.com/v1/try_claude?country=dominica)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=dominica)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=citizenship+by+investment&jurisdictions=dominica)**: a search of Dominican law for "citizenship by investment", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Dominican law on our site](https://lexifina.com/law?country=dominica&q=citizenship+by+investment)**: a search for "citizenship by investment", with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=citizenship+by+investment&jurisdiction=dominica)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English.
 
