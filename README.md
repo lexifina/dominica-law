@@ -57,6 +57,7 @@ Each instrument is credited to itself, as enacted (`Act 20 of 2013 <act-20-2013@
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus it was built from: 3 versions of 3 acts, 0 mismatches.
 - Every commit's trailers parse; there are no merge commits, no commit dates that go backwards and none after the build.
 - A second build from the same corpus gave identical hashes for all 3 law commits and 6 tags. The results, the corpus's sha256 and the builder's hashes are in [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -76,6 +77,10 @@ Each instrument is credited to itself, as enacted (`Act 20 of 2013 <act-20-2013@
 See [`LICENSE`](LICENSE). The laws are official publications of the Government of the Commonwealth of Dominica, whose portal states no reuse licence; the wording of the law is not changed. The history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
