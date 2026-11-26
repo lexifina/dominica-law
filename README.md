@@ -9,11 +9,11 @@ The law of Dominica as a git history: one file per section, one commit per versi
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Dominica's national law, which global-law reads at `dominica/national/acts/`.
 
-**What is in it now:** three instruments, 38 provisions in all, each in one version, as enacted: the Electronic Evidence Act, 2010 (Act 13 of 2010), in force from 17 June 2010; the Electronic Filing Act, 2013 (Act 20 of 2013), from 1 October 2013; and the Commonwealth of Dominica Citizenship by Investment Regulations, 2013 (S.R.O. 43 of 2013), from 9 January 2014. [`data/laws.csv`](data/laws.csv) lists each with the days it was enacted, published and took effect; each folder's `README.md` lists its provisions.
+**What is in it now:** [`constitution/`](constitution/) holds the Constitution, one file per section, as printed in the Revised Laws of 1990 (amended to 1984); [`acts/`](acts/) the Acts of Parliament as passed and [`subsidiary/`](subsidiary/) the statutory rules and orders as made, from the Government's Laws of Dominica portal, one file per section, being added as they are read (the Children (Care and Adoption) Act 2023, the Domestic Violence Act 2023 and the Bail Act 2020 among them). The first three instruments stay in their own folders at the top. Instruments with no text layer are held back (see [`REPRODUCE.md`](REPRODUCE.md)).
 
-Each instrument has its own folder, one file per section or regulation, with its preamble and schedule: `citizenship-by-investment-regulations-2013/sec-005.md` is regulation 5 of the Citizenship by Investment Regulations (real estate and other approved investments) and `citizenship-by-investment-regulations-2013/schedule.md` their Schedule, the fees and minimum investments.
+Each instrument has its own folder: `acts/domestic-violence-act-2023/section-003.md` is section 3 of the Domestic Violence Act 2023, and `constitution/section-001.md` the Constitution's first section.
 
-The text is in English, the official language, as the text layer of the Government's PDFs gives it; page headers and page numbers are removed.
+The text is in English, the official language, as the text layer of the Government's PDFs gives it; page headers and page numbers are removed. **The Constitution is the exception:** the Government's copy is a page scan, so its text is WIPO Lex's machine reading of the printed pages, as WIPO Lex serves it; no OCR is run here, and its commit says so in a `Text-source:` trailer.
 
 ## Questions as git commands
 
@@ -45,12 +45,13 @@ Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local M
 
 ## Dates
 
-Each commit is dated at noon, America/Dominica, on the day the instrument took effect, and carries it in its `In-force:` trailer; `Enacted:` and `Published:` give the other two days:
+Each commit is dated at noon, America/Dominica, on the day the instrument took effect, and carries it in its `In-force:` trailer, with the reason in `In-force-basis:`:
 
 - the day the instrument's own commencement clause gives (the Electronic Filing Act: 1 October 2013, by section 1(2), although it was assented to on 18 November and gazetted on 28 November 2013);
-- where it has none, the day it was published in the Gazette (the Electronic Evidence Act: 17 June 2010; the Citizenship by Investment Regulations: 9 January 2014).
+- where it has none, the day it was published in the Gazette, then the day of assent, then the day it was made; where the text gives none of these, 31 December of its year, as a placeholder;
+- the Constitution: 1 January 1991, the date of the Revised Laws pages it is printed on, as a placeholder; its text is as amended to 1984.
 
-Each instrument is credited to itself, as enacted (`Act 20 of 2013 <act-20-2013@dominica.gov.dm.invalid>`, an address that cannot exist).
+Each instrument is credited to itself, as enacted (`Act 20 of 2013 <act-2013-20@dominica.gov.dm.invalid>`, an address that cannot exist); the Constitution to the `Revised Laws of Dominica 1990`. Commits are appended in the order they are read, so `git log` is not in date order; ask for a date with `tools/on.py`.
 
 ## How it is checked
 
@@ -61,8 +62,8 @@ Each instrument is credited to itself, as enacted (`Act 20 of 2013 <act-20-2013@
 
 ## What it does not show
 
-- **The Constitution and the Revised Laws of Dominica.** The portal's Revised Laws chapters, the Constitution Order (Chapter 1:01) and the criminal, evidence, labour and interpretation statutes among them, are scans without a text layer; no OCR was used.
-- **Other Acts, statutory rules and orders, and case law.** Only these three instruments are here.
+- **The Revised Laws of Dominica.** The portal's Revised Laws chapters (the criminal, evidence, labour and interpretation statutes among them) are scans without a text layer; no OCR was used, so they are not here. Only the Constitution is, from WIPO Lex's reading of the same pages.
+- **Instruments without a text layer, and case law.** Older Acts and statutory rules and orders that are page scans are held back. Judgments are kept in a separate private repository.
 - **Amendments.** The portal publishes each instrument as passed, not consolidated; later amending instruments are not applied, so this is not the text in force today.
 - **The printed layout.** Marginal notes appear inside the section text where the PDF's text layer places them, and some words run together as it gives them.
 
@@ -70,7 +71,8 @@ Each instrument is credited to itself, as enacted (`Act 20 of 2013 <act-20-2013@
 
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
-| [Laws of Dominica](https://dominica.gov.dm/laws-of-dominica) (Government of the Commonwealth of Dominica) | Official legislation portal | no: Acts and statutory rules and orders as passed, not consolidated | The PDFs of the three instruments, retrieved 29 and 30 October 2026 |
+| [Laws of Dominica](https://dominica.gov.dm/laws-of-dominica) (Government of the Commonwealth of Dominica) | Official legislation portal | no: Acts and statutory rules and orders as passed, not consolidated | PDFs with a text layer, retrieved 29 and 30 October and from 26 November 2026, one request every 30 seconds (the site's Crawl-delay) |
+| [WIPO Lex](https://www.wipo.int/wipolex/en/text/492279) | The Constitution, as printed in the Revised Laws 1990 (WIPO Lex's machine-read text) | no | Retrieved 26 November 2026 |
 
 ## Licence
 

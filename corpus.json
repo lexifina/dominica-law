@@ -1,0 +1,14 @@
+{
+  "corpus": "dm/national/acts",
+  "name": "Dominica: the Constitution, Acts of Parliament and statutory rules and orders from the Laws of Dominica portal",
+  "label": "Dominica",
+  "language": "en",
+  "folders": [
+    "constitution",
+    "acts",
+    "subsidiary",
+    "electronic-evidence-act-2010",
+    "electronic-filing-act-2013",
+    "citizenship-by-investment-regulations-2013"
+  ]
+}
