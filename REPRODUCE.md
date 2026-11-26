@@ -55,7 +55,10 @@ A second build from the same corpus into an empty folder gave identical hashes f
 
 ## Decisions made by hand
 
-- Only recent standalone instruments with a text layer were used; the Revised Laws chapters, including the Constitution (Chapter 1:01), are scans and were skipped (no OCR).
+- Only instruments with a text layer are used; the Revised Laws chapters (sampled: Chapters 1:01, 2:01 and 12:35 among them) are page scans and are skipped (no OCR is run here).
+- The Constitution (Chapter 1:01) is the one exception: its text is WIPO Lex's own machine reading of the Revised Laws pages (https://www.wipo.int/wipolex/en/text/492279), taken as served and tagged `Text-source: publisher OCR`. It is dated 1 January 1991 (the date of the L.R.O. 1/1991 pages) as a placeholder; the text is as amended to 1984, and the Constitution of Dominica (Amendment) Act 2014 is not applied.
+- From 26 November 2026 the Acts and statutory rules and orders of the portal are appended by `tools/dm_build.py` (kept in Lexifina's build folder) under `acts/` and `subsidiary/`, one folder per instrument, one file per section, one commit each. Listing: the portal's search by title ("Chapter") and by each year 1960-2026; downloads one request every 30 seconds (robots.txt `Crawl-delay: 30`). Dating, in order: the commencement day stated in the text; the Gazette day printed at its head; the day of assent; the day it was made; else 31 December of its year (each commit's `In-force-basis:` says which). Instruments that are page scans, have no date or could not be fetched are listed in [`data/held.json`](data/held.json).
+- Commits are appended to `main` in the order the instruments are read, so `git log` is not in date order and REPRODUCE.md's counts above describe the October build only.
 - Electronic Filing Act 2013: in force 1 October 2013 by its section 1(2), although assented 18 November 2013 and gazetted 28 November 2013.
 - Citizenship by Investment Regulations 2013: no commencement clause in the text, so dated from the Gazette date, 9 January 2014.
 - Each instrument is a single "as enacted" version; amendments are separate instruments on the portal and are not applied.
